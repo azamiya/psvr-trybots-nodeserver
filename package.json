@@ -1,0 +1,23 @@
+{
+  "name": "psvr-trybots-nodeserver",
+  "version": "1.0.0",
+  "description": "penguin VR viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdra0624/psvr-trybots-nodeserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdra0624/psvr-trybots-nodeserver/issues"
+  },
+  "homepage": "https://github.com/cdra0624/psvr-trybots-nodeserver#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
